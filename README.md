@@ -1,4 +1,4 @@
-# PostgreSQL 11 docker image
+# PostgreSQL Docker Image
 
 ```bash
 docker pull vadimshvetsov/postgres-ru
