@@ -1,7 +1,7 @@
 # PostgreSQL 11 docker image
 
 ```bash
-docker pull shold046/postgres-11-rus
+docker pull vadimshvetsov/postgres-ru
 ```
 
 В [оригинальный образ](https://hub.docker.com/_/postgres) добавлено:
